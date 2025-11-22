@@ -6,7 +6,7 @@
 
 Este laboratorio integral cubre tres sistemas fundamentales en automatización industrial, implementando desde la infraestructura de red básica hasta sistemas de control avanzados con PLCs y comunicación industrial.
 
-
+![lab](lab.jpg)
 ---
 
  Punto 1: Configuración y Prueba Avanzada de Red Sencilla
@@ -18,6 +18,8 @@ Establecer, verificar y documentar completamente la configuración de red indust
  Procedimiento Detallado
 
 1.1 Configuración de Interfaces de Red
+
+![lab2ima](lab2ima.jpg)
 
 # Ver estado completo de todas las interfaces
 ip link show
