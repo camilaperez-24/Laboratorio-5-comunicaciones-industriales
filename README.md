@@ -1,7 +1,7 @@
 # Laboratorio-5-comunicaciones-industriales
 
 
-Camila perez, santiago hernandez, diego rodriguez
+Camila Perez, Santiago Hernandez, Diego Rodriguez
 
  Descripción General del Laboratorio
 
